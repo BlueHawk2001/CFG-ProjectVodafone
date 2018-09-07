@@ -44,6 +44,7 @@ template {
 }
 a {
   background-color: transparent;
+  text-align: center;
 }
 a:active,
 a:hover {
@@ -1826,7 +1827,6 @@ pre code {
   }
   .col-sm-4 {
     width: 33.33333333%;
-    text-align: center;
   }
   .col-sm-3 {
     width: 25%;
