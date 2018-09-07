@@ -84,8 +84,9 @@ sub {
   bottom: -.25em;
 }
 img {
-  border: 0;
+  border:10px solid white;
 }
+
 svg:not(:root) {
   overflow: hidden;
 }
@@ -1288,6 +1289,8 @@ h6,
 }
 p {
   margin: 0 0 10px;
+  font: serif;
+  font-size: 20px;
 }
 .lead {
   margin-bottom: 20px;
