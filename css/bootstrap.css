@@ -1421,10 +1421,12 @@ ul {
       padding: 0;
       overflow: hidden;
       background-color: #333;
+      text-decoration: none;
   }
 
   li a:hover {
       background-color: #111;
+      text-decoration: none;
   }
 
 li{
@@ -1807,7 +1809,7 @@ pre code {
     width: 91.66666667%;
   }
   .col-sm-10 {
-    width: 83.33333333%; 
+    width: 83.33333333%;
   }
   .col-sm-9 {
     width: 75%;
