@@ -1431,6 +1431,7 @@ ul {
 
 li{
   float: left;
+  text-decoration: none;
 }
 
 li a{
