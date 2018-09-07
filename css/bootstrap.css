@@ -1807,8 +1807,7 @@ pre code {
     width: 91.66666667%;
   }
   .col-sm-10 {
-    width: 83.33333333%;
-    background-image: "images\16.jpg"
+    width: 83.33333333%; 
   }
   .col-sm-9 {
     width: 75%;
